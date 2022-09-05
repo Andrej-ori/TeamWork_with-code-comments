@@ -18,6 +18,4 @@ public class PlayerTest {
         int actual = player.sumGenre(game.getGenre());
         assertEquals(expected, actual);
     }
-
-    // другие ваши тесты
 }
